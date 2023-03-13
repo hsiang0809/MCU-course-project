@@ -20,23 +20,22 @@ This homework is to propose an innovative project and describe the key features,
   - Draw a System Block Diagram
 
 ---
-## 家用料理機器人
+## 智能深度清潔器
 
 ### 應用功能說明
-1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
-2. 存取冰箱：辨識食物, 存放食材，或取出食材, 送至廚具
+1. 電器整合：中央空調，紫外線、酒精消毒，PM2.5檢測，空氣清淨除濕機，掃地機器人
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 操作方式:垂直升降式手臂 or 懸吊式手臂
-2. 移動方式:兩輪 or 滑軌懸吊
-3. 供電方式:鋰電池
+1. 操作方式:遠程遙控 or 遙控器
+2. 供電方式:插電
 4. 聯網方式:WiFi或BT to 手機
 
 **所需相關技術：**
-1. 滑軌式機器手臂 ＆ 軟式夾具
-2. 食物辨識分類：Jetson-Nano + IMX219
-3. 電子鼻：氣味感測與辨識 MQ2
+1. 深度學習技術
+2. 感知、運動控制技術
+3. 能源管理技術
+4. 雲端計算技術
 
 ### 系統方塊圖
 ![](https://github.com/hsiang0809/MCU-course-project/blob/main/images/Future_Home_spaces.png?raw=true)
