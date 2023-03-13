@@ -38,7 +38,7 @@ This homework is to propose an innovative project and describe the key features,
 4. 雲端計算技術
 
 ### 系統方塊圖
-![](https://github.com/hsiang0809/MCU-course-project/blob/main/images/Future_Home_spaces.png?raw=true)
+![](https://github.com/hsiang0809/MCU-course-project/blob/main/images/Innovative Application Project Proposal.png?raw=true)
 
 
 ---
