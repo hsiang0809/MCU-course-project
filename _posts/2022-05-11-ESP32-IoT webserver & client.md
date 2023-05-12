@@ -1,5 +1,14 @@
-<!DOCTYPE html>
-<html>
+---
+layout: post
+title: IoT webserver & client
+author: [Hsiang Liao]
+category: [Lecture]
+tags: [jekyll, ai]
+---
+
+Introduction to IoT Operating Systems
+
+---
 ## Code
 //
 // ESP32 Webserver to receive data from Webclients
