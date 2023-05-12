@@ -210,9 +210,5 @@ void loop() {
 
 ## 影片
 <iframe width="1471" height="569" src="https://www.youtube.com/embed/UY0SxLlYkXE" title="20230511ESP32iotwebsevertoclient" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      </a>
-    </div>
-
-    <script type="text/javascript" src="/_error.js"></script>
-  </body>
-</html>
+<br>
+<br>
