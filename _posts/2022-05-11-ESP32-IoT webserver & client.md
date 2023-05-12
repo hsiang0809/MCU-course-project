@@ -17,8 +17,8 @@ Introduction to IoT Operating Systems
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* ssid     = "Ming";
-const char* password = "98765432";
+const char* ssid     = "Hello";
+const char* password = "sean0809";
 
 WebServer server(80);
 
