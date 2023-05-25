@@ -113,5 +113,5 @@ void loop() {
 }
 
 圖片
-![](https://github.com/hsiang0809/MCU-course-project/blob/main/images/1025119.jpg)
+![](https://github.com/hsiang0809/MCU-course-project/blob/main/images/1025119.jpg)?raw=true
 
