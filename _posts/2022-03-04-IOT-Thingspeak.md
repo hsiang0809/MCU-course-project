@@ -5,7 +5,7 @@ author: [Hsiang Liao]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
-###code
+code
 
 #include <WiFi.h>
 #include "DHT.h"
@@ -112,6 +112,6 @@ void loop() {
   delay(1*10*1000);
 }
 
-###圖片
+圖片
 ![](https://github.com/hsiang0809/MCU-course-project/blob/main/images/1025119.jpg)
 
