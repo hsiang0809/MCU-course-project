@@ -112,5 +112,8 @@ void loop() {
   delay(1*10*1000);
 }
 
+### 系統方塊圖
+![](https://github.com/hsiang0809/MCU-course-project/blob/main/images/thingspeak.png?raw=true)
+
 ### 圖片
 ![](https://github.com/hsiang0809/MCU-course-project/blob/main/images/1025119.jpg?raw=true)
