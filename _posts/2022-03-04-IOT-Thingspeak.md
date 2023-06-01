@@ -6,6 +6,7 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 ### code
+```
 
 #include <WiFi.h>
 #include "DHT.h"
@@ -111,6 +112,8 @@ void loop() {
   //system_deep_sleep(1 * 60 * 1000000);
   delay(1*10*1000);
 }
+
+```
 
 ### 系統方塊圖
 ![](https://github.com/hsiang0809/MCU-course-project/blob/main/images/thingspeak.png?raw=true)
