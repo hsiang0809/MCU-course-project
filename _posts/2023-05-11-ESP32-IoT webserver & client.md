@@ -10,6 +10,7 @@ Introduction to IoT Operating Systems
 
 ---
 ## Code
+```
 //
 // ESP32 Webserver to receive data from Webclients
 // To use a web browser to open IP address of this webserver
@@ -207,6 +208,7 @@ void setup() {
 void loop() {
   server.handleClient();
 }
+```
 
 ### 系統方塊圖
 ![](https://github.com/hsiang0809/MCU-course-project/blob/main/images/web.png?raw=true)
